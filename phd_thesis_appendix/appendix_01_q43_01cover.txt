@@ -1,0 +1,37 @@
+# This work is licensed under the Creative Commons Attribution 4.0 International License.
+# To view a copy of the license, visit http://creativecommons.org/licenses/by/4.0/.
+
+
+# 0-1-cover (e = 6, f = 5, u = 4) of Q_43
+#   reference point z = (-1, 0)
+#   excess cols: { 10 }
+#   excess d-diags: { -31 }
+#   excess s-diags: { -39, 29, 39 }
+
+# $D = (c_i, r_i)$ with $(r_i) = -21, -19, \ldots, 19, 21$ and $(c_i) = -18$, $8$, $2$, $-4$, $10$, $20$, $-14$, $-20$, $0$, $6$, $-8$, $16$, $4$, $-6$, $14$, $-16$, $-10$, $12$, $-2$, $-12$, $10$, $18$ .
+
+
+dim 43 43
+
+(0, 3)
+(2, 29)
+(4, 23)
+(6, 17)
+(8, 31)
+(10, 41)
+(12, 7)
+(14, 1)
+(16, 21)
+(18, 27)
+(20, 13)
+(22, 37)
+(24, 25)
+(26, 15)
+(28, 35)
+(30, 5)
+(32, 11)
+(34, 33)
+(36, 19)
+(38, 9)
+(40, 31)
+(42, 39)
